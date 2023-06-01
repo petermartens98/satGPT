@@ -1,5 +1,5 @@
 # satGPT
-## Desccription
+## Description
 This code implements a chatbot called "satGPT" using the Streamlit library and OpenAI's GPT-3.5 language model. The chatbot generates satirical and witty responses based on user input. It utilizes a satirical response template and a conversation buffer memory to store past conversations. The code provides a web interface where users can enter messages and receive satirical responses. The conversation history is displayed in chat bubbles, with the generated responses in gray and user input in green. The chatbot's humor and originality are emphasized, aiming to entertain users with funny and satirical interactions.
 
 ## Breakdown
